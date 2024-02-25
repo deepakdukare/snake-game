@@ -26,7 +26,7 @@ This project implements a basic version of the Snake Game where the player contr
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/snake-game.git             
+git clone https://github.com/deepakdukare/snake-game.git     
 
 2. Open the `index.html` file in your web browser to play the game.
 
@@ -39,5 +39,5 @@ git clone https://github.com/your-username/snake-game.git
 
 ## Contributors
 
-- Deepak Dukare (https://github.com/your-username)
+- Deepak Dukare (https://github.com/deepakdukare)
 
